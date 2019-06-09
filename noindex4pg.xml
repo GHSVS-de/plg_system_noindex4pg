@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="plugin" group="system" method="upgrade">
+ <name>PLG_SYSTEM_NOINDEX4PG</name>
+ <author>G@HService Berlin Neukölln, Volkmar Volli Schlothauer</author>
+ <creationDate>2019-06-09</creationDate>
+ <copyright></copyright>
+ <license></license>
+ <authorEmail></authorEmail>
+ <authorUrl>https://www.ghsvs.de</authorUrl>
+ <version>2019.06.09</version>
+ <description>Demo-Plugin, das auf allen PhocaGallery-Seiten ein robots=noindex,nofollow setzt</description>
+ 
+ <files>
+  <filename plugin="noindex4pg">noindex4pg.php</filename>
+ </files>
+
+ <config />
+</extension>
